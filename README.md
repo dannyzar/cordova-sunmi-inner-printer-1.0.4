@@ -1,0 +1,1 @@
+# cordova-sunmi-inner-printer-1.0.4
